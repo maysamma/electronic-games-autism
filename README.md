@@ -1,12 +1,12 @@
-<p align="center">
-  <img src="project-header.png" alt="The Effectiveness of Electronic Games for Children with Autism" width="100%">
-</p>
-
+<div align="center">
+  
 # The Effectiveness of Electronic Games for Children with Autism
 
 A literature review exploring the impact of electronic games on developing different skills among children with Autism Spectrum Disorder (ASD).
 
----
+<img src="Project-banner.png" alt="The Effectiveness of Electronic Games for Children with Autism" width="100%">
+</div>
+
 
 ## 📌 Project Overview
 
